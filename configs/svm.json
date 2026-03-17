@@ -1,0 +1,11 @@
+{
+  "model_name": "SupportVectorMachine",
+  "learning_rate": 0.005,
+  "epochs": 15,
+  "batch_size": 16,
+  "seed": 99,
+  "extra": {
+    "kernel": "rbf",
+    "C": 1.5
+  }
+}

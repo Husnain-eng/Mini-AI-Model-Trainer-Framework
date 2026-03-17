@@ -1,0 +1,6 @@
+{"ts": "2026-03-17T01:02:52.217459", "level": "INFO", "logger": "ai_trainer", "message": "Mini AI Model Trainer Framework v1.0.0 \u2014 starting"}
+{"ts": "2026-03-17T01:02:52.217742", "level": "INFO", "logger": "ai_trainer", "message": "Configs created: LR / NN / SVM"}
+{"ts": "2026-03-17T01:02:52.217992", "level": "INFO", "logger": "ai_trainer", "message": "Models instantiated (total: 3)"}
+{"ts": "2026-03-17T01:02:52.218298", "level": "INFO", "logger": "ai_trainer", "message": "DataLoader ready: DataLoader(name='HousePrices', samples=15, splits=['train', 'val', 'test'])"}
+{"ts": "2026-03-17T01:02:52.219443", "level": "INFO", "logger": "ai_trainer", "message": "All models trained. Results: [{'model_name': 'LinearRegression', 'metric_name': 'MSE', 'metric_value': 0.0181, 'duration_s': 0.0003, 'trained_at': '2026-03-17 06:02:52.218622', 'epochs_logged': 10}, {'model_name': 'NeuralNetwork', 'metric_name': 'Accuracy', 'metric_value': 93.42, 'duration_s': 0.0003, 'trained_at': '2026-03-17 06:02:52.218964', 'epochs_logged': 20}, {'model_name': 'SupportVectorMachine', 'metric_name': 'F1Score', 'metric_value': 0.8922, 'duration_s': 0.0003, 'trained_at': '2026-03-17 06:02:52.219265', 'epochs_logged': 15}]"}
+{"ts": "2026-03-17T01:02:52.219726", "level": "INFO", "logger": "ai_trainer", "message": "Pipeline complete."}

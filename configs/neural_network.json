@@ -1,0 +1,11 @@
+{
+  "model_name": "NeuralNetwork",
+  "learning_rate": 0.001,
+  "epochs": 20,
+  "batch_size": 64,
+  "seed": 7,
+  "extra": {
+    "layers": [64, 32, 1],
+    "activation": "relu"
+  }
+}

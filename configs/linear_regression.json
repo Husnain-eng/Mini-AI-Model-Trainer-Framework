@@ -1,0 +1,8 @@
+{
+  "model_name": "LinearRegression",
+  "learning_rate": 0.01,
+  "epochs": 10,
+  "batch_size": 32,
+  "seed": 42,
+  "extra": {}
+}
